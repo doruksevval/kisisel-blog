@@ -1,5 +1,5 @@
 # kisisel-blog
-HTML ve CSS kullanarak yapmış olduğum kişisel bloğuma hoşgeldiniz.
+HTML ve CSS kullanarak yapmış olduğum kişisel bloguma hoşgeldiniz.
 
 
 
